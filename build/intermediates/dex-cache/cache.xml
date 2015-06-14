@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/alex/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/alex/Desktop/Plural/BroadcastReceiverExample12/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-ac01559ffb3c5472d23ed7f69d87686fce941039.jar" />
+    </item>
+    <item
+        jar="/Users/alex/Desktop/Plural/BroadcastReceiverExample12/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/alex/Desktop/Plural/BroadcastReceiverExample12/app/build/intermediates/pre-dexed/debug/classes-2f10918af387db48456c1536eaac6ae3bab32f82.jar" />
+    </item>
+    <item
+        jar="/Users/alex/Desktop/Plural/BroadcastReceiverExample12/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/alex/Desktop/Plural/BroadcastReceiverExample12/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-3a0a46d9688cea5ebf040026ca9ba6a264dd02bd.jar" />
+    </item>
+    <item
+        jar="/Users/alex/Desktop/Plural/BroadcastReceiverExample12/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/alex/Desktop/Plural/BroadcastReceiverExample12/app/build/intermediates/pre-dexed/debug/classes-6805d683de3fefee49eca80820624b54ba102342.jar" />
+    </item>
+
+</items>
